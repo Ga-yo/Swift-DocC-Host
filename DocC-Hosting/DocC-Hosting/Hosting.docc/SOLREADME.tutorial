@@ -1,0 +1,11 @@
+@Tutorials(name: "ReadMe") {
+    @Intro(title: "SOL Project Guide") {
+        by. SOL Project REAMD.md
+        
+        @Image(source: 짱구, alt: "쏠야구 이미지")
+    }
+    
+    @Chapter(name: "README") {
+        @TutorialReference(tutorial: "doc:README") 
+    }
+}
